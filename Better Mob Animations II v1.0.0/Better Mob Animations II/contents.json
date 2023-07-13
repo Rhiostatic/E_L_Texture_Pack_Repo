@@ -1,0 +1,209 @@
+{
+   "content" : [
+      {
+         "path" : "textures/entity/iron_golem/iron_golem.png"
+      },
+      {
+         "path" : "animation_controllers/zombie.animation_controllers.json"
+      },
+      {
+         "path" : ".mcattributes"
+      },
+      {
+         "path" : "render_controllers/iron_golem.render_controllers.json"
+      },
+      {
+         "path" : "animation_controllers/iron_golem.animation_controllers.json"
+      },
+      {
+         "path" : "animations/irongolem.animation.json"
+      },
+      {
+         "path" : "models/entity/villager_v2.geo.json"
+      },
+      {
+         "path" : "manifest.json"
+      },
+      {
+         "path" : "animations/look_at_target.animation.json"
+      },
+      {
+         "path" : "textures/entity/villager2/levels/level_emerald.png"
+      },
+      {
+         "path" : "textures/entity/villager2/levels/level_diamond.png"
+      },
+      {
+         "path" : "animation_controllers/villager_v2.animation_controllers.json"
+      },
+      {
+         "path" : "animations/villager.animation.json"
+      },
+      {
+         "path" : "animations/zombie.animation.json"
+      },
+      {
+         "path" : "CHANGELOG.txt"
+      },
+      {
+         "path" : "textures/entity/villager2/levels/level_iron.png"
+      },
+      {
+         "path" : "contents.json"
+      },
+      {
+         "path" : "entity/villager_v2.entity.json"
+      },
+      {
+         "path" : "entity/drowned.entity.json"
+      },
+      {
+         "path" : "entity/husk.entity.json"
+      },
+      {
+         "path" : "textures/entity/villager2/levels/level_gold.png"
+      },
+      {
+         "path" : "entity/iron_golem.entity.json"
+      },
+      {
+         "path" : "textures/entity/villager2/professions/fisherman.tga"
+      },
+      {
+         "path" : "textures/entity/villager2/biomes/biome_snow.png"
+      },
+      {
+         "path" : "entity/wandering_trader.entity.json"
+      },
+      {
+         "path" : "entity/witch.entity.json"
+      },
+      {
+         "path" : "entity/zombie.entity.json"
+      },
+      {
+         "path" : "textures/entity/villager2/professions/fletcher.tga"
+      },
+      {
+         "path" : "LICENSE.txt"
+      },
+      {
+         "path" : "textures/entity/iron_golem/cracked_medium.png"
+      },
+      {
+         "path" : "render_controllers/zombie.render_controllers.json"
+      },
+      {
+         "path" : "models/entity/iron_golem.geo.json"
+      },
+      {
+         "path" : "models/entity/witch.geo.json"
+      },
+      {
+         "path" : "textures/entity/iron_golem/cracked_low.png"
+      },
+      {
+         "path" : "models/entity/zombie.geo.json"
+      },
+      {
+         "path" : "textures/entity/villager2/professions/cleric.tga"
+      },
+      {
+         "path" : "pack_icon.png"
+      },
+      {
+         "path" : "render_controllers/drowned.render_controllers.json"
+      },
+      {
+         "path" : "render_controllers/husk.render_controllers.json"
+      },
+      {
+         "path" : "textures/entity/iron_golem/cracked_none.png"
+      },
+      {
+         "path" : "render_controllers/villager_v2.render_controllers.json"
+      },
+      {
+         "path" : "render_controllers/wandering_trader.render_controllers.json"
+      },
+      {
+         "path" : "textures/entity/villager2/biomes/biome_savanna.png"
+      },
+      {
+         "path" : "render_controllers/witch.render_controllers.json"
+      },
+      {
+         "path" : "textures/entity/iron_golem/cracked_high.png"
+      },
+      {
+         "path" : "textures/entity/villager2/biomes/biome_desert.png"
+      },
+      {
+         "path" : "textures/entity/villager2/biomes/biome_jungle.png"
+      },
+      {
+         "path" : "textures/entity/villager2/biomes/biome_plains.png"
+      },
+      {
+         "path" : "textures/entity/villager2/biomes/biome_swamp.png"
+      },
+      {
+         "path" : "textures/entity/villager2/biomes/biome_taiga.png"
+      },
+      {
+         "path" : "textures/entity/villager2/professions/unskilled.tga"
+      },
+      {
+         "path" : "textures/entity/villager2/levels/level_stone.png"
+      },
+      {
+         "path" : "textures/entity/villager2/professions/armorer.tga"
+      },
+      {
+         "path" : "textures/entity/villager2/professions/butcher.tga"
+      },
+      {
+         "path" : "textures/entity/villager2/professions/librarian.tga"
+      },
+      {
+         "path" : "textures/entity/villager2/professions/cartographer.tga"
+      },
+      {
+         "path" : "textures/entity/villager2/professions/farmer.tga"
+      },
+      {
+         "path" : "textures/entity/villager2/professions/nitwit.tga"
+      },
+      {
+         "path" : "textures/entity/villager2/professions/leatherworker.tga"
+      },
+      {
+         "path" : "textures/entity/villager2/professions/toolsmith.tga"
+      },
+      {
+         "path" : "textures/entity/villager2/professions/shepherd.tga"
+      },
+      {
+         "path" : "textures/entity/villager2/professions/stonemason.tga"
+      },
+      {
+         "path" : "textures/entity/villager2/professions/weaponsmith.tga"
+      },
+      {
+         "path" : "textures/entity/villager2/villager.png"
+      },
+      {
+         "path" : "textures/entity/witch.png"
+      },
+      {
+         "path" : "textures/zombie/drowned.tga"
+      },
+      {
+         "path" : "textures/zombie/husk.png"
+      },
+      {
+         "path" : "textures/zombie/zombie.png"
+      }
+   ],
+   "version" : 1
+}
