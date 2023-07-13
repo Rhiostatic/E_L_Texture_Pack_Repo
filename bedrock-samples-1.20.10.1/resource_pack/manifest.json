@@ -1,18 +1,18 @@
 {
     "format_version": 2,
     "header": {
-        "description": "Example vanilla resource pack",
-        "name": "Vanilla Resource Pack",
-        "uuid": "66c6e9a8-3093-462a-9c36-dbb052165822",
-        "version": [0, 0, 1],
+        "description": "A blend of Natural, Faithful-32 and Vanilla because sometimes Vanilla is better!",
+        "name": "E and L Texture Pack 4.0.0 for 1.20.10.1",
+        "uuid": "3d4a2983-d762-422d-baa9-d979ab797851",
+        "version": [4, 0, 0],
         "min_engine_version": [ 1, 20, 10 ]
     },
     "modules": [
         {
-            "description": "Example vanilla resource pack",
+            "description": "A blend of Natural, Faithful-32 and Vanilla because sometimes Vanilla is better!",
             "type": "resources",
-            "uuid": "743f6949-53be-44b6-b326-398005028819",
-            "version": [0, 0, 1]
+            "uuid": "d0a45f3d-f03b-4e0a-9db9-b64c678b81a7",
+            "version": [4, 0, 0]
         }
     ]
 }
