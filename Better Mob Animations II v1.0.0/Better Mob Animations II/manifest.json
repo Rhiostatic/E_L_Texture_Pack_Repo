@@ -1,0 +1,42 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"Raboy13"
+		],
+		"generated_with": {
+			"bridge": [
+				"2.6.0"
+			],
+			"dash": [
+				"0.10.8"
+			]
+		}
+	},
+	"header": {
+		"name": "§fBetter Mob Animations §r§c§lII§r§c§r",
+		"description": "§6Better Mob Animations§r §fbut §r§evanilla style!§r\n§fby §rRaboy13\n\n§4Youtube§r§f:§r §6Raboy13§r",
+		"min_engine_version": [
+			1,
+			19,
+			60
+		],
+		"uuid": "01523b1f-2a34-48f2-8f6a-30446f8f27d5",
+		"version": [
+			1,
+			0,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "c87874fb-2093-4b37-92ae-a4ae187ed639",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}

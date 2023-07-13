@@ -1,0 +1,78 @@
+v1.0.0
+> Villager
+-new idle animation
+-new blink animation
+-new walking animation
+-new running animation
+-new death animation
+
+> Wandering Trader
+-new idle animation
+-new blink animation
+-new walking animation
+-new running animation
+-new death animation
+
+> Witch
+-new idle animation
+-new blink animation
+-new walking animation
+-new running animation
+-new death animation
+
+> Iron Golem
+-new idle animation
+-new walking animation
+-new running animation
+-new attack animation
+-new 2 randomized death animations
+
+> Zombie
+-new 2 randomized idle animations
+-new walk animation
+-new running animation
+-new 3 randomized attack animations
+-new 2 randomized death animations
+
+> Husk
+-new 2 randomized idle animations
+-new walk animation
+-new running animation
+-new 3 randomized attack animations
+-new 2 randomized death animations
+
+> Drowned
+-new 2 randomized idle animations
+-charging animation
+-new walk animation
+-new running animation
+-new 3 randomized attack animations
+-new 2 randomized death animations
+
+> Zombie Villager
+-new 2 randomized idle animations
+-new walk animation
+-new running animation
+-new 3 randomized attack animations
+-new 2 randomized death animations
+
+> Skeleton
+-new idle animation
+-new walk animation
+-new realistic bow handling animation
+-new death animation
+
+> Creeper
+-new blink animation
+-new idle animation
+-new walk animation
+-new death animation
+
+[Miscellaneous]
+-changed hit color for mobs from red to white
+
+
+===================================================================================================================
+[Copyright] [Raboy13] [2023]
+Author: Raboy13
+Youtube: https://youtube.com/c/Raboy13
