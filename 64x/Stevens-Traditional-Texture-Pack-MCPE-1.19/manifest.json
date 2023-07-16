@@ -1,0 +1,20 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Resource pack carried by §l§1P§2L§3A§4Y§5G§6A§7M§8E§9M§aP§fE. §r§av1.0.4 \n§fThis resource pack was created and carried out with the legal permissions of its creator, §l§n§bSteven, §r§fgranted to §c§lPLAYGAMEMPE. \n§f§l§o§dThe Wild Update: §fMCBE §av1.19.xx
+        \n§d§lOfficial Download Site for Bedrock Editions: §l§f§rkawaiiworldbe.com/en/PROJECTS/",
+        "name": "§7Steven's §8Traditional",
+        "uuid": "d468a9df-26b7-408f-9c7c-f44c9b6b5c33",
+        "version": [ 1, 0, 4 ],
+        "min_engine_version": [ 1, 13, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Resource pack carried by §l§1P§2L§3A§4Y§5G§6A§7M§8E§9M§aP§fE. §r§av1.0.4 \n§fThis resource pack was created and carried out with the legal permissions of its creator, §l§n§bSteven, §r§fgranted to §c§lPLAYGAMEMPE. \n§f§l§o§dThe Wild Update: §fMCBE §av1.19.xx
+            \n§d§lOfficial Download Site for Bedrock Editions: §l§f§rkawaiiworldbe.com/en/PROJECTS/",
+            "type": "resources",
+            "uuid": "65cd90ef-b189-406e-a218-c039ada92658",
+            "version": [ 1, 0, 4 ]
+        }
+    ]
+}

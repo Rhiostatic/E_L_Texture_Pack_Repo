@@ -1,0 +1,19 @@
+{
+  "format_version": "1.8.0",
+  "render_controllers": {
+    "controller.render.squid": {
+      "geometry": "geometry.default",
+      "materials": [ { "*": "Material.default" } ],
+      "textures": [ "array.xskins[variable.xvar]" ],
+      "arrays": {
+        "textures": {
+          "array.xskins": [
+            "texture.default",
+            "texture.default2",
+            "texture.default3"
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,28 @@
+//This JSON was modified by AgentMindStorm (@agentms_). Please do not use this document without permission.
+{
+  "emote_image/empty": { //This changes the size of the "no emote" icon to match the music player buttons.
+    "size": [ 22, 22 ]
+  },
+  "emote_image/emote_preview": { //This changes the size of the emote icons to match the music player buttons.
+    "size": [ 26, 26 ]
+  },
+  "emote_image/emote_preview/valid": { //These bindings allow the music player to use the built-in emote icons.
+    "bindings": [
+      {
+        "binding_name": "#emote_image",
+        "binding_name_override": "#texture",
+        "binding_condition": "always"
+      },
+      {
+        "binding_name": "#emote_image_file_system",
+        "binding_name_override": "#texture_file_system",
+        "binding_condition": "always"
+      },
+      {
+        "binding_name": "#image_is_valid",
+        "binding_name_override": "#visible",
+        "binding_condition": "always"
+      }
+    ]
+  }
+}

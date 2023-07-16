@@ -1,0 +1,84 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "pack.description",
+    "name": "pack.name",
+    "uuid": "48eb7f7e-e508-11ed-b5ea-0242ac120002",
+    "version": [3, 3, 0],
+    "min_engine_version": [1, 20, 0]
+  },
+  "modules": [
+    {
+      "description": "pack.description",
+      "type": "resources",
+      "uuid": "48eb8280-e508-11ed-b5ea-0242ac120002",
+      "version": [3, 3, 0]
+    }
+  ],
+  "settings": [
+    {
+      "type": "label",
+      "text": "The pack option you choose determines the way Minecraft plays ambient songs."
+    },
+    {
+      "type": "label",
+      "text": "The music player will work no matter which option you choose, but the \"No Ambient Music\" option is recommended to avoid overlapping songs."
+    },
+    {
+      "type": "label",
+      "text": "Music discs played in jukeboxes ignore the chosen pack option. They work the same as they do without Music+, but with a larger range."
+    }
+  ],
+  "subpacks": [
+    {
+      "folder_name": "no_ambient_music",
+      "name": "No Ambient Music (For Music Player)\n\nThis stops music from playing automatically. It's meant for players who want to manually play songs with the music player or commands.",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "custom_music_only",
+      "name": "Custom Music Only\n\nThis limits the music to custom songs. If no custom songs have been added, it will be silent. Requires the Custom Music Container companion pack.",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "festive_music_only",
+      "name": "Festive Music Only\n\nThis limits the music to festive songs.",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "oldest_music_only",
+      "name": "Oldest Music Only (No Unique Nether or End Music)\n\nThis limits all music to songs from before the 2013 Music Update. It doesn't use Creative, Biome-specific, Nether, End, or Menu music.",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "old_music_only",
+      "name": "Old Music Only (Includes Nether and End Music)\n\nThis limits overworld music to songs from before the 2013 Music Update and Nether music to songs from before the Nether Update.",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "total_music_mix",
+      "name": "Total Music Mix (Any Song Plays Anywhere)\n\nThis lets any song play at any time, including custom songs. One playlist to rule them all!",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "terrain-based_music_no_extra_songs",
+      "name": "Terrain-Based Music - No Extra Songs\n\nThis limits music to songs that are in any base version of the game and separates them by location in the same way as the other Terrain-Based option.",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "terrain-based_music_includes_extra_songs",
+      "name": "Terrain-Based Music - Includes Extra Songs\n\nThis separates music more to give unique atmospheres to different places in the world. Underwater, Mountain, Cave, Swamp, Forest, Jungle, Desert, and Deep Dark music now play only in the relevant locations. Nether music is also split up by biome. Unused songs from the official soundtracks are added where they fit.",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "dimension-based_music_no_extra_songs",
+      "name": "Dimension-Based Music - No Extra Songs\n\nThis limits the music to songs that are in any base version of the game, but otherwise matches the features of the other Dimension-Based option.",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "dimension-based_music_includes_extra_songs",
+      "name": "Dimension-Based Music - Includes Extra Songs (Default)\n\nAny song from the current dimension can play anywhere. Unused songs from the official soundtracks are added where they fit.",
+      "memory_tier": 1
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "format_version": "1.8.0",
+  "render_controllers": {
+    "controller.render.wolf": {
+      "geometry": "Geometry.default",
+      "materials": [ { "*": "Material.default" } ],
+      "textures": [
+      	"query.is_angry ? array.angry[variable.xvar] : (query.is_tamed ? array.tame[variable.xvar] : (array.xskins[variable.xvar]))"
+      	],
+      "arrays": {
+        "textures": {
+          "array.tame": [
+            "texture.tame",
+            "texture.tame2",
+            "texture.tame3",
+            "texture.tame4",
+            "texture.tame5",
+            "texture.tame6",
+            "texture.tame7",
+            "texture.tame8"
+          ],
+          "array.angry": [
+            "texture.angry",
+            "texture.angry2",
+            "texture.angry3",
+            "texture.angry4",
+            "texture.angry5",
+            "texture.angry6",
+            "texture.angry7",
+            "texture.angry8"
+          ],
+          "array.xskins": [
+            "texture.default",
+            "texture.default2",
+            "texture.default3",
+            "texture.default4",
+            "texture.default5",
+            "texture.default6",
+            "texture.default7",
+            "texture.default8"
+          ]
+        }
+      }
+    }
+  }
+}

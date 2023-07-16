@@ -1,0 +1,11 @@
+{
+  "view_terms_button":
+  {
+    "$default_text_color": "$light_button_default_text_color"
+  },
+
+  "privacy_policy_button":
+  {
+    "$default_text_color": "$light_button_default_text_color"
+  }
+}

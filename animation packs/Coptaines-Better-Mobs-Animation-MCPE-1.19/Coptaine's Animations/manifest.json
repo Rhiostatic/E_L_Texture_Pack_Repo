@@ -1,0 +1,33 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "§lCoptaine's Animations §cv1.3.1",
+    "description": "§cby §bCoptaine\n§7Gives Minecraft Bedrock a fresher look by improving mob's animations.",
+    "uuid": "d1a43fc8-a299-4cf7-bd9b-7516ff3c867e",
+    "version": [ 1, 3, 1 ],
+    "min_engine_version": [ 1, 18, 0 ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "eb7b695c-d9c3-48a7-a4f8-142336389282",
+      "version": [ 1, 3, 1 ]
+    }
+  ],
+  "subpacks": [
+    {
+      "folder_name": "default",
+      "memory_tier": 1,
+      "name": "§eDefault\n§7Animations with blinking eyes"
+    },
+    {
+      "folder_name": "no_eyelids",
+      "memory_tier": 1,
+      "name": "§eNo Eyelids\n§7Animations without blinking eyes"
+    }
+  ],
+  "metadata": {
+    "authors": [ "Coptaine" ],
+    "url": "https://mcpedl.com/coptaines-mob-animation/"
+  }
+}
