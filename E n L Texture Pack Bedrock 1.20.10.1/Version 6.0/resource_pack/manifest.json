@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "A blend of Natural, Faithful-32 and Vanilla because sometimes Vanilla is better!",
+        "name": "E and L Texture Pack for 1.20.10.1",
+        "uuid": "a596c0ca-c572-4ab9-a80f-e6f390755d85",
+        "version": [5, 0, 0],
+        "min_engine_version": [ 1, 20, 10 ]
+    },
+    "modules": [
+        {
+            "description": "A blend of Natural, Faithful-32 and Vanilla because sometimes Vanilla is better!",
+            "type": "resources",
+            "uuid": "4721de68-9986-4d1d-afcf-31865fb2f211",
+            "version": [5, 0, 0]
+        }
+    ]
+}
