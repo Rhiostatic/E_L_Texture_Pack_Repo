@@ -1,0 +1,12 @@
+{
+  "back_button_content/chevron_panel/left_chevron": 
+  {
+    "color": "$light_button_hover_text_color"
+  },
+
+  "back_title_button_content/chevron_panel/left_chevron": 
+  {
+    "color": "$light_button_hover_text_color"
+  }
+    
+}

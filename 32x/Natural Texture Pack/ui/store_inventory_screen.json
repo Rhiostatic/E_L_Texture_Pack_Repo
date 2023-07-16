@@ -1,0 +1,9 @@
+{
+  "section_toggle_base@common_toggles.light_image_toggle_collection": {
+    "$default_text_color": "$light_button_default_text_color"
+  },
+
+  "realms_plus_stack_panel/section_title/section_title_label": {
+    "color": [1,1,1]
+  }
+}

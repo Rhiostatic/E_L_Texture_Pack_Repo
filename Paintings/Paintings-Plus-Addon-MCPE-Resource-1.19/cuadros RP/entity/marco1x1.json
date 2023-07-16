@@ -1,0 +1,87 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "s:marco1x1",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"marco": "textures/entity/marco_1x1",
+				"cuadro1": "textures/cuadro1x1/1",
+				"cuadro2": "textures/cuadro1x1/2",
+				"cuadro3": "textures/cuadro1x1/3",
+				"cuadro4": "textures/cuadro1x1/4",
+				"cuadro5": "textures/cuadro1x1/5",
+				"cuadro6": "textures/cuadro1x1/6",
+				"cuadro7": "textures/cuadro1x1/7",
+				"cuadro8": "textures/cuadro1x1/8",
+				"cuadro9": "textures/cuadro1x1/9",
+				"cuadro10": "textures/cuadro1x1/10",
+				"cuadro11": "textures/cuadro1x1/11",
+				"cuadro12": "textures/cuadro1x1/12",
+				"cuadro13": "textures/cuadro1x1/13",
+				"cuadro14": "textures/cuadro1x1/14",
+				"cuadro15": "textures/cuadro1x1/15",
+				"cuadro16": "textures/cuadro1x1/16",
+				"cuadro17": "textures/cuadro1x1/17",
+				"cuadro18": "textures/cuadro1x1/18",
+				"cuadro19": "textures/cuadro1x1/19",
+				"cuadro20": "textures/cuadro1x1/20"
+			},
+			"geometry": {
+				"marco": "geometry.marco1x1",
+				"cuadro": "geometry.cuadro1x1"
+			},
+			"render_controllers": [
+				{
+					"controller.render.marco": "query.property('s:glowstone')==false"
+				},
+				{
+					"controller.render.cuadro": "query.property('s:glowstone')==false"
+				},
+				{
+					"controller.render.marco_glow": "query.property('s:glowstone')==true"
+				},
+				{
+					"controller.render.cuadro_glow": "query.property('s:glowstone')==true"
+				}
+			],
+			"spawn_egg": {
+				"base_color": "#000000",
+				"overlay_color": "#FFFFFF"
+			},
+			"animations": {
+				"norte": "animation.cuadro.norte",
+				"sur": "animation.cuadro.sur",
+				"este": "animation.cuadro.este",
+				"oeste": "animation.cuadro.oeste",
+				"scale0": "animation.cuadro.scale0",
+				"scale1": "animation.cuadro.scale1",
+				"scale2": "animation.cuadro.scale2"
+			},
+			"scripts": {
+				"animate": [
+					{
+						"norte": "query.property('s:rotation')==0"
+					},
+					{
+						"sur": "query.property('s:rotation')==1"
+					},
+					{
+						"este": "query.property('s:rotation')==2"
+					},
+					{
+						"oeste": "query.property('s:rotation')==3"
+					},
+					{
+						"scale0": "query.property('s:scale')==0"
+					},
+					{
+						"scale1": "query.property('s:scale')==1"
+					}
+				]
+			}
+		}
+	}
+}

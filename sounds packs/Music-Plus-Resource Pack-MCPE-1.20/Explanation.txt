@@ -1,0 +1,32 @@
+Universal Features:
+-Music plays constantly with no silent periods, except in the Deep Dark.
+-All songs are much louder than normal.
+-Door, Moog City, Équinoxe, Chris, Excuse, Beginning, Droopy Likes Richochet, and Droopy Likes Your Face from Minecraft Volume Alpha have been added.
+-Ki, Flake, Kyoto, and Intro from Minecraft Volume Beta have been added.
+-Earth and Sprouting from Minecraft Earth have been added.
+-Magnetic Circuit (calm4) from Java Edition Alpha v1.1.1 has been added.
+-Festive versions of Ballad of the Cats (xmasn1), Warmth (xmasn2), and The End (xmas_the_end) have been added.
+-Creative, Survival, Menu, Underwater, and Biome-specific (such as Swamp and Desert) songs play interchangeably.
+-Nether Wastes, Crimson Forest, and Soul Sand Valley songs play interchangeably with the original Nether songs.
+-Music plays in Warped Forests.
+-End and Boss play interchangeably.
+-Dog plays after the Cat music disc.
+-Jukebox music is audible from 250 blocks away instead of the default 64.
+-The "11" music disc has been replaced with Minecraft Volume Alpha's "Eleven", an actual song.
+-The "ward" music disc has been replaced with Minecraft Volume Beta's "Ward", a remixed version of the original disc.
+-An in-game music player has been added to the emote screen. (Or the settings screen when not in a world.)
+-Up to 100 custom songs can be added. Requires the Custom Music Container companion pack.
+-Any individual song can be played with the command "/playsound song.[song_name/filename] @s".
+-Music discs will still play from the Jukebox regardless of the pack option chosen below.
+
+Pack Options:
+Dimension-Based Music - Includes Extra Songs (Default) - Any song from the current dimension can play anywhere. Unused songs from the official soundtracks are added where they fit.
+Dimension-Based Music - No Extra Songs - This limits the music to songs that are in any base version of the game, but otherwise matches the features of the other Dimension-Based option.
+Terrain-Based Music - Includes Extra Songs - This separates music more to give unique atmospheres to different places in the world. Underwater, Mountain, Cave, Swamp, Forest, Jungle, Desert, and Deep Dark music now play only in the relevant locations. Nether music is also split up by biome. Unused songs from the official soundtracks are added where they fit.
+Terrain-Based Music - No Extra Songs - This limits music to songs that are in any base version of the game and separates them by location in the same way as the other Terrain-Based option.
+Total Music Mix (Any Song Plays Anywhere) - This lets any music, including Credits, End, Boss, Nether, Underwater, Biome-specific, Menu, Survival, Creative, Music Discs, Custom, and Extra music play at any time.
+Old Music Only - This limits overworld music to songs from before the 2013 Music Update and Nether music to songs from before the Nether Update.
+Oldest Music Only - This limits all music to songs from before the 2013 Music Update. It doesn't use Creative, Underwater, Mountain, Biome-specific, Nether, End, Credits, or Menu music.
+Festive Music Only - This limits the music to festive songs.
+Custom Music Only - This limits the music to custom songs. If no custom songs have been added, it will be silent. Requires the Custom Music Container companion pack.
+No Ambient Music (For Music Player) - This stops music from playing automatically. It's meant for players who want to manually play songs with the music player or commands.

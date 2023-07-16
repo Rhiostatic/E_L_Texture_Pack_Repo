@@ -1,0 +1,30 @@
+{
+	"format_version": "1.8.0",
+	"render_controllers": {
+		"controller.render.cuadro": {
+			"geometry": "geometry.cuadro",
+			"filter_lighting": true,
+			"materials": [
+				{
+					"*": "material.default"
+				}
+			],
+			"textures": [
+				"query.property('s:paint')==1?texture.cuadro1:query.property('s:paint')==2?texture.cuadro2:query.property('s:paint')==3?texture.cuadro3:query.property('s:paint')==4?texture.cuadro4:query.property('s:paint')==5?texture.cuadro5:query.property('s:paint')==6?texture.cuadro6:query.property('s:paint')==7?texture.cuadro7:query.property('s:paint')==8?texture.cuadro8:query.property('s:paint')==9?texture.cuadro9:query.property('s:paint')==10?texture.cuadro10:query.property('s:paint')==11?texture.cuadro11:query.property('s:paint')==12?texture.cuadro12:query.property('s:paint')==13?texture.cuadro13:query.property('s:paint')==14?texture.cuadro14:query.property('s:paint')==15?texture.cuadro15:query.property('s:paint')==16?texture.cuadro16:query.property('s:paint')==17?texture.cuadro17:query.property('s:paint')==18?texture.cuadro18:query.property('s:paint')==19?texture.cuadro19:query.property('s:paint')==20?texture.cuadro20:0"
+			]
+		},
+		"controller.render.cuadro_glow": {
+			"geometry": "geometry.cuadro",
+			"filter_lighting": true,
+			"materials": [
+				{
+					"*": "material.default"
+				}
+			],
+			"textures": [
+				"query.property('s:paint')==1?texture.cuadro1:query.property('s:paint')==2?texture.cuadro2:query.property('s:paint')==3?texture.cuadro3:query.property('s:paint')==4?texture.cuadro4:query.property('s:paint')==5?texture.cuadro5:query.property('s:paint')==6?texture.cuadro6:query.property('s:paint')==7?texture.cuadro7:query.property('s:paint')==8?texture.cuadro8:query.property('s:paint')==9?texture.cuadro9:query.property('s:paint')==10?texture.cuadro10:query.property('s:paint')==11?texture.cuadro11:query.property('s:paint')==12?texture.cuadro12:query.property('s:paint')==13?texture.cuadro13:query.property('s:paint')==14?texture.cuadro14:query.property('s:paint')==15?texture.cuadro15:query.property('s:paint')==16?texture.cuadro16:query.property('s:paint')==17?texture.cuadro17:query.property('s:paint')==18?texture.cuadro18:query.property('s:paint')==19?texture.cuadro19:query.property('s:paint')==20?texture.cuadro20:0"
+			],
+			"ignore_lighting": true
+		}
+	}
+}

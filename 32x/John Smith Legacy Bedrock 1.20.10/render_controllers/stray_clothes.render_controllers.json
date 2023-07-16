@@ -1,0 +1,21 @@
+{
+  "format_version": "1.8.0",
+  "render_controllers": {
+    "controller.render.stray_clothes": {
+      "rebuild_animation_matrices": true,
+      "geometry": "geometry.overlay",
+      "materials": [ { "*": "Material.overlay" } ],
+      "textures": [ "array.overlay[variable.xvar]" ],
+      "arrays": {
+        "textures": {
+          "array.overlay": [
+            "texture.overlay",
+            "texture.overlay2",
+            "texture.overlay3",
+            "texture.overlay4"
+          ]
+        }
+      }
+    }
+  }
+}

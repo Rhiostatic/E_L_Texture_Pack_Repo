@@ -1,0 +1,26 @@
+
+These are the two images used:-
+
+textures/ui/experiencebarempty.png
+textures/ui/experiencebarfull.png
+
+There are five files that make use of these images, one of them is for the loading screen.
+
+ui/achievement_screen.json
+ui/file_upload_screen.json
+ui/hud_screen.json
+ui/popup_dialog.json
+ui/store_common.json
+
+Right, I've tracked it down to the achievement screen file (which makes very little sense).
+
+ui/achievement_screen.json
+
+Anyway this is linked to from another file:-
+
+ui/progress_screen.json
+
+Now I've tracked it down to the "fancy_progress_loading_bars" but I'm not sure what to change.
+
+Here's the vanilla file for you to look at if you can help (section starting a line 580-616 and 1109-1130).
+

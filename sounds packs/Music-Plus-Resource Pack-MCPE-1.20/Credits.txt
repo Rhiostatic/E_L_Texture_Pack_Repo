@@ -1,0 +1,21 @@
+Music+ was made by AgentMindStorm (@agentms_).
+
+Pack Contributors:
+
+Snowstorm (@creepies_) - All sidebar code
+QuazChick (@QuazChick) - Stop button technique
+Wild (@wildthegamer_) - Original code design for a custom tab
+SeaOfPixels (@PotholedSea40) - Obsolete features
+Netongas NG (@netongas_ng) - Mexican Spanish translations
+moi (@moi74365029) - France French translations
+Alex PNG (Alex PNG#8243) - German translations
+
+All music added by this pack was created by C418, Shauny Jang, or Markus Persson.
+
+============================
+Credits Policy
+============================
+
+If a feature that has been given to add to the pack, the name and Twitter handle of the person (or team) will be added to the Credits document, along with the features they contributed.
+If one of these contributed features is later removed from the pack, the contributor's name will stay in the Credits List, but the feature will be removed from their line.
+If all features from a single contributor have been removed from the pack, the list of features they contributed will say "Obsolete features".
