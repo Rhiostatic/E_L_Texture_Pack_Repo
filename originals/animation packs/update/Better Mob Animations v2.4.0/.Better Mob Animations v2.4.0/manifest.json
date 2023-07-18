@@ -1,0 +1,56 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "§2Better §4Mob §6Animations",
+		"description": "§2Better Mob Animations §3v2.4.0 §fby Raboy13 \nNew option to select between vanilla style animations (no jointed limbs) and default animations (jointed limbs) + §5Bug fixes and improvements!§f\nNow supports texture packs (16x only for now) \n§4[Youtube: §6Raboy13 §7||§9SUBSCRIBE]",
+		"uuid": "d3c62154-bb75-4828-89e9-36183acacf9c",
+		"version": [
+			2,
+			4,
+			0
+		],
+		"min_engine_version": [
+			1,
+			18,
+			0
+		]
+	},
+	"modules": [
+		{
+			"description": "pack.name",
+			"type": "resources",
+			"uuid": "8d5df6c9-84a7-4a18-9e09-ec2d61cc7624",
+			"version": [
+				2,
+				4,
+				0
+			]
+		}
+	],
+	"subpacks": [
+		{
+			"name": "Default (No Jointed limbs)",
+			"memory_tier": 0,
+			"folder_name": "vanilla_style"
+		},
+		{
+			"name": "Vanilla Style (jointed limbs)",
+			"memory_tier": 1,
+			"folder_name": "default"
+		}
+	],
+	"metadata": {
+		"authors": [
+			"Raboy13"
+		],
+		"url": "https://www.youtube.com/c/Raboy13",
+		"generated_with": {
+			"bridge": [
+				"2.6.0"
+			],
+			"dash": [
+				"0.10.8"
+			]
+		}
+	}
+}

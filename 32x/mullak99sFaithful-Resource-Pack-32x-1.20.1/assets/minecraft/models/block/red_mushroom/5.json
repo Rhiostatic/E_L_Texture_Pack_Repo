@@ -1,6 +1,0 @@
-{
-    "parent": "block/cross",
-    "textures": {
-        "cross": "m99-ctm:block/red_mushroom_5"
-    }
-}
