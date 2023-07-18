@@ -1,6 +1,0 @@
-{
-    "parent": "block/flower_pot_cross",
-    "textures": {
-        "plant": "m99-ctm:block/crimson_fungus_2"
-    }
-}
