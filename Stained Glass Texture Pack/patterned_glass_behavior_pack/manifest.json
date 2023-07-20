@@ -4,7 +4,7 @@
      "description": "Patterned Glass Blocks Extending the Glass Options!",
      "name": "Patterened Glass Pack From EnL Studio. Credit to John Smith",
      "uuid":"2171e043-d719-40e4-bc4a-78bf3c6b4f52",
-     "version": [1, 0, 0],
+     "version": [2, 0, 0],
      "min_engine_version": [1, 20, 1]
    },
    "modules":
@@ -13,13 +13,13 @@
          "description": "Patterened Glass Pack From EnL Studio. Credit to John Smith",
            "type": "data",
            "uuid": "99cb95a2-f607-48f0-9e11-b7023ee9370c",
-           "version": [1, 0, 0]
+           "version": [2, 0, 0]
        }
      ],
    "dependencies": [
      {
       "uuid":"49aa86eb-61cd-4949-a953-6a3ab51d5d49",
-       "version":[1,0,0]
+       "version":[2,0,0]
      }
   ]
  }
