@@ -1,0 +1,12 @@
+{ 
+  "resource_pack_name": "patterned_glass_resource_pack", 
+  "texture_name": "atlas.terrain", 
+  "padding": 8, 
+  "num_mip_levels": 4, 
+  "texture_data": { 
+    "patterned_glass": { 
+      "textures": "textures/blocks/patterned_glass" 
+    }
+    } 
+  } 
+}
