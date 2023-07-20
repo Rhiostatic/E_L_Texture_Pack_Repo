@@ -2,7 +2,7 @@
   "format_version": "1.20.10",
   "minecraft:recipe_shaped": {
     "description": {
-      "identifier": "patterned:pattern_glass"
+      "identifier": "patterned:patterned_glass"
     },
     "tags": [ "crafting_table" ],
     "pattern": [
@@ -19,7 +19,7 @@
     },
 	"unlock": [
       {
-        "item": "patterned:pattern_glass"
+        "item": "patterned:patterned_glass"
       }
     ],
     "result": {
