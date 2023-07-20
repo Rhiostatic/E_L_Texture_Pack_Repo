@@ -46,8 +46,8 @@
     "patterned_glass_red": { 
       "textures": "textures/blocks/patterned_glass_red" 
     },
-    "patterned_glass_silver": { 
-      "textures": "textures/blocks/patterned_glass_silver" 
+    "patterned_glass_light_grey": { 
+      "textures": "textures/blocks/patterned_glass_light_grey" 
     },
     "patterned_glass_white": { 
       "textures": "textures/blocks/patterned_glass_white" 

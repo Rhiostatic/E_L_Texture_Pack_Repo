@@ -2,7 +2,7 @@
   "format_version": "1.20.10",
   "minecraft:recipe_shaped": {
     "description": {
-      "identifier": "patterned:pattern_glass_pink"
+      "identifier": "patterned:patterned_glass_pink"
     },
     "tags": [ "crafting_table" ],
     "pattern": [
@@ -11,7 +11,7 @@
     ],
     "key": {
       "#": {
-        "item": "minecraft:pink_stained_glass"
+        "item": "minecraft:stained_glass:6"
       },
       "X": {
         "item": "minecraft:iron_nugget"
@@ -19,7 +19,7 @@
     },
 	"unlock": [
       {
-        "item": "patterned:pattern_glass_pink"
+        "item": "patterned:patterned_glass_pink"
       }
     ],
     "result": {
