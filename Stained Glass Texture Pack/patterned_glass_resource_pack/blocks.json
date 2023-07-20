@@ -1,0 +1,8 @@
+{ 
+  "format_version": "1.20.10", 
+  "patterned:patterned_glass": { 
+    "sound":"glass",
+    "textures": "patterned_glass",
+    "brightness_gamma": 1
+    } 
+}
