@@ -872,12 +872,12 @@
    },
    "cobbled_deepslate" : {
       "isotropic" : false,
-      "sound" : "deepslate",									 
+      "sound" : "deepslate",
       "textures" : {
          "down" : "cobbled_deepslate_bottom",
          "side" : "cobbled_deepslate",
          "up" : "cobbled_deepslate_top"
-      }	
+      }
    },
    "cobbled_deepslate_double_slab" : {
       "isotropic" : false,
@@ -886,7 +886,7 @@
          "down" : "cobbled_deepslate_bottom",
          "side" : "cobbled_deepslate",
          "up" : "cobbled_deepslate_top"
-      }  
+      }
    },
    "cobbled_deepslate_slab" : {
       "isotropic" : false,
@@ -914,9 +914,9 @@
    "cobblestone" : {
       "sound" : "stone",
       "textures" : {
-        "down" : "cobblestone_bottom",
-        "side" : "cobblestone",
-        "up" : "cobblestone_top"
+         "down" : "cobblestone_bottom",
+         "side" : "cobblestone",
+         "up" : "cobblestone_top"
       }
    },
    "cobblestone_wall" : {
@@ -1023,7 +1023,8 @@
    },
    "cracked_deepslate_bricks" : {
       "isotropic" : false,
-      "sound" : "deepslate_bricks","textures" : {
+      "sound" : "deepslate_bricks",
+      "textures" : {
          "down" : "cracked_deepslate_bricks_bottom",
          "side" : "cracked_deepslate_bricks",
          "up" : "cracked_deepslate_bricks_top"
@@ -1032,7 +1033,7 @@
    "cracked_deepslate_tiles" : {
       "isotropic" : false,
       "sound" : "deepslate_bricks",
-	  "textures" : {
+      "textures" : {
          "down" : "cracked_deepslate_tiles_bottom",
          "side" : "cracked_deepslate_tiles",
          "up" : "cracked_deepslate_tiles_top"
@@ -1407,7 +1408,7 @@
    "deepslate_tile_double_slab" : {
       "isotropic" : false,
       "sound" : "deepslate_bricks",
-	  "textures" : {
+      "textures" : {
          "down" : "deepslate_tiles_bottom",
          "side" : "deepslate_tiles_slab_side",
          "up" : "deepslate_tiles_top"
@@ -1416,7 +1417,7 @@
    "deepslate_tile_slab" : {
       "isotropic" : false,
       "sound" : "deepslate_bricks",
-	  "textures" : {
+      "textures" : {
          "down" : "deepslate_tiles_bottom",
          "side" : "deepslate_tiles_slab_side",
          "up" : "deepslate_tiles_top"
@@ -1425,7 +1426,7 @@
    "deepslate_tile_stairs" : {
       "isotropic" : false,
       "sound" : "deepslate_bricks",
-	  "textures" : {
+      "textures" : {
          "down" : "deepslate_tiles_stairs_bottom",
          "side" : "deepslate_tiles_stairs_side",
          "up" : "deepslate_tiles_stairs_top"
@@ -1434,7 +1435,7 @@
    "deepslate_tile_wall" : {
       "isotropic" : false,
       "sound" : "deepslate_bricks",
-	  "textures" : {
+      "textures" : {
          "down" : "deepslate_tiles_bottom",
          "side" : "deepslate_tiles",
          "up" : "deepslate_tiles_top"
@@ -1443,7 +1444,7 @@
    "deepslate_tiles" : {
       "isotropic" : false,
       "sound" : "deepslate_bricks",
-	  "textures" : {
+      "textures" : {
          "down" : "deepslate_tiles_bottom",
          "side" : "deepslate_tiles",
          "up" : "deepslate_tiles_top"
@@ -2595,7 +2596,7 @@
    },
    "mossy_cobblestone" : {
       "sound" : "stone",
-	  "textures" : {
+      "textures" : {
         "down" : "cobblestone_mossy",
         "side" : "cobblestone_mossy",
         "up" : "cobblestone_mossy_top"
@@ -3727,7 +3728,7 @@
       }
    },
    "stone_stairs" : {
-	  "isotropic" : false,
+      "isotropic" : false,
       "sound" : "stone",
       "textures" : {
          "down" : "cobblestone_stairs_bottom",
@@ -3736,13 +3737,14 @@
       }
    },
    "stonebrick" : {
-	  "sound" : "stone",
+      "sound" : "stone",
       "textures" : {
          "down" : "stonebrick_bottom",
          "side" : "stonebrick_side",
          "up" : "stonebrick_top"
       }
    },
+    },
    "stonecutter" : {
       "sound" : "stone",
       "textures" : {
