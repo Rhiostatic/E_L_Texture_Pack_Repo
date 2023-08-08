@@ -267,16 +267,7 @@
          "textures" : "textures/blocks/bone_block_top"
       },
       "bookshelf" : {
-         "textures" : [
-            {
-            "variations" : [
-               { "path" : "textures/blocks/bookshelf", "weight" : 20 },
-               { "path" : "textures/blocks/bookshelf1", "weight" : 20 },
-               { "path" : "textures/blocks/bookshelf2", "weight" : 20 },
-               { "path" : "textures/blocks/bookshelf3", "weight" : 20 }
-            ]
-         }
-      ]
+         "textures" : "textures/blocks/bookshel
       },
       "bookshelf_top" : {
          "textures" : "textures/blocks/bookshelf_top"
