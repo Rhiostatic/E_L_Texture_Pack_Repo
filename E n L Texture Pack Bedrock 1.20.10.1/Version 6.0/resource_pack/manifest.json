@@ -1,18 +1,18 @@
 {
     "format_version": 2,
     "header": {
-        "description": "A blend of Natural, Faithful-32 and Vanilla because sometimes Vanilla is better!",
-        "name": "E and L Texture Pack for 1.20.10.1",
+        "description": "A blend of Packs with Animation and Variatys",
+        "name": "EnL Studios Texture Pack for 1.20.10.1",
         "uuid": "326a3025-374f-4cc1-8328-3db1e3e7e071",
-        "version": [6, 1, 0],
+        "version": [6, 2, 0],
         "min_engine_version": [ 1, 20, 10 ]
     },
     "modules": [
         {
-            "description": "A blend of Natural, Faithful-32 and Vanilla because sometimes Vanilla is better!",
+            "description": "A blend of Packs with Animation and Variatys",
             "type": "resources",
             "uuid": "d9d1d607-d3ae-4e82-8a68-d6976e205f6f",
-            "version": [6, 1, 0]
+            "version": [6, 2, 0]
         }
     ]
 }
