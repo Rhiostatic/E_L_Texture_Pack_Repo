@@ -4,7 +4,7 @@
         "description": "A blend of Packs with Animation and Variatys",
         "name": "EnL Studios Texture Pack for 1.20.10.1",
         "uuid": "326a3025-374f-4cc1-8328-3db1e3e7e071",
-        "version": [6, 2, 1],
+        "version": [6, 2, 2],
         "min_engine_version": [ 1, 20, 10 ]
     },
     "modules": [
@@ -12,7 +12,7 @@
             "description": "A blend of Packs with Animation and Variatys",
             "type": "resources",
             "uuid": "d9d1d607-d3ae-4e82-8a68-d6976e205f6f",
-            "version": [6, 2, 1]
+            "version": [6, 2, 2]
         }
     ]
 }
