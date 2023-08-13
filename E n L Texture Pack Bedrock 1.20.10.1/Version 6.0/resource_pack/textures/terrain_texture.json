@@ -1095,9 +1095,6 @@
       "deepslate_tiles_stairs_bottom" : {
          "textures" : "textures/blocks/deepslate_tiles_stairs_bottom"
       },
-      "deepslate_top" : {
-         "textures" : "textures/blocks/deepslate/deepslate_top"
-      },
       "destroy" : {
          "textures" : [
             "textures/environment/destroy_stage_0",
@@ -1953,17 +1950,7 @@
          ]
       },
       "moss_block" : {
-         "textures" : [
-            {
-            "variations" : [
-               { "path" : "textures/blocks/moss_block", "weight" : 60 },
-               { "path" : "textures/blocks/moss_block1", "weight" : 5 },
-               { "path" : "textures/blocks/moss_block2", "weight" : 10 },
-               { "path" : "textures/blocks/moss_block3", "weight" : 15 },
-               { "path" : "textures/blocks/moss_block4", "weight" : 10 }
-            ]
-         }
-      ]
+         "textures" : "textures/blocks/moss_block"
       },
       "mossy_stone_brick" : {
          "textures" : [
