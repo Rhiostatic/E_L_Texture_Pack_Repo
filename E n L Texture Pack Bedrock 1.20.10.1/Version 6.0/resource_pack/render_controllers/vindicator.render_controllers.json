@@ -4,19 +4,11 @@
     "controller.render.vindicator": {
       "geometry": "Geometry.default",
       "part_visibility": [
-        { "rightArm": "query.is_angry || query.is_celebrating" },
-        { "leftArm": "query.is_angry || query.is_celebrating" },
-        { "rightItem": "query.is_angry" },
-        { "arms": "!(query.is_angry || query.is_celebrating)" }
+        { "arms": "!query.is_celebrating" },
+        { "rightItem": "!query.is_celebrating" }
       ],
       "materials": [ { "*": "Material.default" } ],
-      "textures": [ "Texture.default" ],
-      "is_hurt_color": {
-        "r": 1.0,
-        "g": 1.0,
-        "b": 1.0,
-        "a": "q.is_alive ? 0.2 : 0"
-      }
+      "textures": [ "Texture.default" ]
     }
   }
 }
