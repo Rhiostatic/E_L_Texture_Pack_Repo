@@ -78,7 +78,9 @@
 						"2.5": [0, 0, 0.1]
 					}
 				}
-			}
+			},
+			"particle_effects": {},
+			"timeline": {}
 		},
 		"animation.skeleton.v1.8.walking": {
 			"loop": true,
