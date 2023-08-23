@@ -2,17 +2,17 @@
     "format_version": 2,
     "header": {
         "description": "A blend of Packs with Animation and Varieties of MOBs.",
-        "name": "v6.3.4 EnL Studios Texture Pack for 1.20.10.1",
-        "uuid": "1ea29a8c-7b41-4e7d-bc30-c459baf4038f",
-        "version": [6, 3, 4],
+        "name": "v6.3.5 EnL Studios Texture Pack for 1.20.10.1",
+        "uuid": "891d92f2-e2af-4f14-ba64-56c50dabba1d",
+        "version": [6, 3, 5],
         "min_engine_version": [ 1, 20, 10 ]
     },
     "modules": [
         {
             "description": "A blend of Packs with Animation and Varieties of MOBs.",
             "type": "resources",
-            "uuid": "53e54b57-358c-49fa-bcbb-4866e04a7602",
-            "version": [6, 3, 4]
+            "uuid": "e9ac5117-1d94-487d-b659-2484f3f79d68",
+            "version": [6, 3, 5]
         }
     ]
 }
