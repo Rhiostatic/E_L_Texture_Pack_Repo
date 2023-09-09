@@ -32,6 +32,8 @@
         "ear_wagging": "animation.wolf.ear_wagging",
         "tail_wagging": "animation.wolf.tail_wagging",
         "tail_wagging2": "animation.wolf.tail_wagging2",
+        "tail_tamed": "animation.wolf.tail_tamed",
+        "tail_down": "animation.wolf.tail_down",
         "base_face": "animation.wolf.base_face",
         "tamed_face": "animation.wolf.tamed_face",
         "death_face": "animation.wolf.death_face",
