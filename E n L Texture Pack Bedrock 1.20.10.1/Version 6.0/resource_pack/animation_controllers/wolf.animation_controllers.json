@@ -19,8 +19,10 @@
 					"animations": [
 						"base",
 						"ear_wagging",
-						{"tail_wagging": "!query.is_interested"},
-						{"tail_wagging2": "query.is_interested"}
+						{"tail_tamed": "!query.is_interested && (query.health > 10 || query.health == 10) && query.is_tamed"},
+						{"tail_wagging2": "query.is_interested"},
+						{"tail_down": "!query.is_interested && query.health < 10 && query.is_tamed"},
+						{"tail_wagging": "!query.is_interested && !query.is_tamed"}
 					],
 					"transitions": [
 						{"walk": "query.ground_speed > 0.3"},
@@ -112,8 +114,10 @@
 					"animations": [
 						"base",
 						"ear_wagging",
-						{"tail_wagging": "!query.is_interested"},
-						{"tail_wagging2": "query.is_interested"}
+						{"tail_tamed": "!query.is_interested && (query.health > 10 || query.health == 10) && query.is_tamed"},
+						{"tail_wagging2": "query.is_interested"},
+						{"tail_down": "!query.is_interested && query.health < 10 && query.is_tamed"},
+						{"tail_wagging": "!query.is_interested && !query.is_tamed"}
 					],
 					"transitions": [
 						{"default": "!query.is_riding"}
